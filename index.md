@@ -2,12 +2,27 @@
 
 Intro intro words words
 
+##lists
+
+ -This
+   -sub
+   -another
+ -is
+ -a
+ -list
+
+1. My
+2. Name
+   
+
+[x]
+
 ## Subtitle 
 
 ## NIU Huskies
 
 ![A Cute pic .]![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-[NIU Steam]https://github.com/mahsamasoudi/communicate-using-Markdown/edit/start-markdown/index.md?pr=%2Fmahsamasoudi%2Fcommunicate-using-Markdown%2Fpull%2F1
+[NIU Steam](https://github.com/mahsamasoudi/communicate-using-Markdown/edit/start-markdown/index.md?pr=%2Fmahsamasoudi%2Fcommunicate-using-Markdown%2Fpull%2F1)
 ## code Example
 
 ```
