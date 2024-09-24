@@ -5,17 +5,16 @@ Intro intro words words
 ##lists
 
  -This
-   -sub
-   -another
  -is
  -a
- -list
+-list
+  -sub
+  -another
 
 1. My
 2. Name
    
-
-[x]
+-[ x ]
 
 ## Subtitle 
 
